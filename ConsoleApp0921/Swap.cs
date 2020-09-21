@@ -44,7 +44,7 @@ namespace ConsoleApp0921
             a = temp;
 
             Console.WriteLine($"x = {a}, y = {b}");
-
+              
         }
 
         static void Main()
